@@ -1,2 +1,4 @@
-# One project
- Primeiro repositorio
+# Primeiro project!
+ Primeiro repositorio!
+
+ Repositorio criado para aprender.
